@@ -1,0 +1,30 @@
+3.
+Transaction class : can have txn id
+	
+Antivirus class: 
+ product key will be there as field	
+ once txn done --> generate product key
+
+ if no product key constructor : basic free version
+ if key is there --> full version
+ 
+ 
+ 
+ 1. 
+  enter zoo details at runtime by user ,ask animal name and then create specific object
+  collection of animals should be there
+  
+  
+ 2.	 
+  method: to deposite, withdraw, and get the balance 
+  
+  
+  
+ 4.	room booking system for hotel
+ 	Room class : roomNum, capacity, pricePerNight
+ 		method : to check availability, to make reservation
+ 				toString() --> gives room info
+ 				reserve(): with check-in/check-out time
+ 							without check-in/check-out time
+ 							
+( Hotel can have multiple room, according to their category : diff in price, 							 
